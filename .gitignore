@@ -1,0 +1,11 @@
+*.exe
+*.pdb
+*.suo
+*.manifest
+*.cache
+PaintOnEntireScreen/PaintOnEntireScreen/obj/x86/Debug/PaintOnEntireScreen.csproj.FileListAbsolute.txt
+PaintOnEntireScreen/PaintOnEntireScreen/obj/x86/Debug/PaintOnEntireScreen.Form1.resources
+PaintOnEntireScreen/PaintOnEntireScreen/obj/x86/Debug/PaintOnEntireScreen.Properties.Resources.resources
+PaintOnEntireScreen/PaintOnEntireScreen/obj/x86/Release/PaintOnEntireScreen.csproj.FileListAbsolute.txt
+PaintOnEntireScreen/PaintOnEntireScreen/obj/x86/Release/PaintOnEntireScreen.Form1.resources
+PaintOnEntireScreen/PaintOnEntireScreen/obj/x86/Release/PaintOnEntireScreen.Properties.Resources.resources
